@@ -69,7 +69,7 @@ def get_data(files):
             if result:
                 empty_list.append(result.group().strip())
             else:
-                empty_list.append(None)
+                empty_list.append('None')
 
         list_of_lists = [os_prod_list, os_name_list, os_code_list, os_type_list]
         for raw, li in zip(raw_strings_for_search, list_of_lists):

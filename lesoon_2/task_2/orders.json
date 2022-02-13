@@ -1,0 +1,18 @@
+{
+    "orders": [
+        {
+            "item": "watermelon",
+            "quantity": 150,
+            "price": 300.0,
+            "buyer": "Tomas Anderson",
+            "date": "12-12-2012"
+        },
+        {
+            "item": "watermelon",
+            "quantity": 150,
+            "price": 300.0,
+            "buyer": "Tomas Anderson",
+            "date": "12-12-2012"
+        }
+    ]
+}
